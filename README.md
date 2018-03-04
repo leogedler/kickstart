@@ -15,4 +15,4 @@ This is a Crowdfunding app, It's in the early state, but functional. It Uses the
 - An user can create a Campaign and specify the manager.
 - Users can contribute to the Campaign sending ETH to the Campaign contract.
 - The manager can generate requests to use the ETH in the Campaign.
-- The users that had contribuite to the Campaign can vote whether they agree or not to the resquest made by the manager.
+- The users that had contribute to the Campaign can vote whether they agree or not to the request made by the manager.
